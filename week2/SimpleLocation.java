@@ -6,9 +6,10 @@ public class SimpleLocation {
         this.latitude = lat;
         this.longitude = lon;
     }
-    public double distance(SimpleLocation other){
+    public void distance(SimpleLocation other){
         //
     }
+
 
 
 }
